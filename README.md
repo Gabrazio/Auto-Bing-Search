@@ -9,4 +9,4 @@
 ## How to use
 1. Run the `autobingsearch.py` file.
 2. Enter the number of searches you want to perform.
-3. Done! :trollface:
+3. Done! :bowtie:
