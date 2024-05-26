@@ -1,4 +1,3 @@
 # Auto Bing Search
-## How to use
-### First step
-Install <b>selenium</b> via pip 
+## How to install
+1. Install <b>Python</b>
